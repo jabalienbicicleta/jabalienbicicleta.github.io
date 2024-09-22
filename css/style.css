@@ -1,0 +1,60 @@
+/* Basic Material Design Look */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.header {
+    background-color: #6200ea;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    margin-bottom: 10px;
+}
+
+.content {
+    padding: 20px;
+}
+
+h2 {
+    color: #6200ea;
+    margin-bottom: 10px;
+}
+
+section {
+    background: white;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: #6200ea;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #6200ea;
+    text-decoration: none;
+}
